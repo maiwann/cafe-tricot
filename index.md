@@ -1,8 +1,13 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
 ---
+# Café-Tricot pour le moral !
 
-# L'Échappée Belle
+L'association **Café-Tricot pour le moral !** a pour objet de permettre à ses participantes de passer un moment agréable en faisant, au choix :
+- du tricot
+- des câlins à des chats
+- la discussion aux autres personnes présentes
+- du thé (ou du café)
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+![petit chat allongé sur les pavés](/images/5b3fe35c1cd3a134.jpg) 
