@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 0
+order: 1
 ---
 # Café-Tricot pour le moral !
 
