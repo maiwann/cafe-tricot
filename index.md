@@ -1,8 +1,11 @@
 ---
 title: "Accueil"
 order: 1
+in_menu: true
 ---
 # Café-Tricot pour le moral !
+
+Mis à jour avec **Scribouilli 2024 !!!**
 
 L'association **Café-Tricot pour le moral !** a pour objet de permettre à ses participantes de passer un moment agréable en faisant, au choix :
 - du tricot
