@@ -9,7 +9,7 @@ Mis à jour avec **Scribouilli 2024 !!!**
 
 L'association **Café-Tricot pour le moral !** a pour objet de permettre à ses participantes de passer un moment agréable en faisant, au choix :
 - du tricot
-- des câlins à des chats
+- des câlins à des chachats
 - la discussion aux autres personnes présentes
 - du thé (ou du café)
 
