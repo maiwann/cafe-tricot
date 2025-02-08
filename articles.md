@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Articles
-permalink: /articles/
+title: "Articles"
+order: 1
+in_menu: true
 ---
 <h1>
   Articles
@@ -11,7 +11,7 @@ permalink: /articles/
   (<a href="https://flus.fr/carnet/a-quoi-servent-les-flux.html">c'est quoi ?</a>)
 </aside>
 
-{% for post in site.posts %}
+{% for post in site.posts sssqqs%}
 <article class="blog-item">
   <h2>
     <a href="{{post.url | relative_url}}"> {{ post.title }} </a>
@@ -20,4 +20,4 @@ permalink: /articles/
   <a href="{{post.url | relative_url}}"> Lire l'article ➞ </a>
 </article>
 <hr />
-{% endfor %}
+{% endfor %} 
