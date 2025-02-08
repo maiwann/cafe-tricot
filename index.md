@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Café tricot"
 order: 1
 in_menu: true
 ---
