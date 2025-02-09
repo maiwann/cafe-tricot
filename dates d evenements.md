@@ -1,5 +1,5 @@
 ---
-title: "Dates d'évènements"
+title: "Dates d évènements"
 order: 1
 in_menu: true
 ---
